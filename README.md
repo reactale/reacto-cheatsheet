@@ -1,7 +1,7 @@
 # Reacto Cheat Sheet
 
 ## Menu
-- [Introduction](https://github.com/reactale/reacto-cheatsheet#introduction)
+- [Introduction](#introduction)
 - [Reactos](https://github.com/reactale/reacto-cheatsheet#reactos)
 - [Recipes]()
 
