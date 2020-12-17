@@ -2,7 +2,7 @@
 
 ## Menu
 - [Introduction](#introduction)
-- [Reactos](https://github.com/reactale/reacto-cheatsheet#reactos)
+- [Reactos](#reactos)
 - [Recipes]()
 
 
