@@ -43,6 +43,8 @@ Reactos are small codes (Reactive Tokens) that can be used within normal texts t
 
 - `((r.var.variableName))` yields the value of the variable (set either by user or system)
 
+- `((r.var.variableName = text with r.var.otherVar))` Thus outer r.var can act like a template to be updated later
+
 
 ### Calc `((r.calc))`
 
