@@ -56,3 +56,13 @@ Reactos are small codes (Reactive Tokens) that can be used within normal texts t
 
 - `((r.if. value1 = value2 )) {{ ... }}` If value1 equals to value2 then whatever is inside {{ ... }} will get executed
 
+
+### Fn `((r.fn))`
+
+These functional reactos may be specific to reactale.com platform only.
+
+- `((r.fn.goto ,, any_full_url ))` It will load the url
+
+- `((r.fn.show ,, any_text ))` The text will be shown to the user
+
+
