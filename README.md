@@ -39,7 +39,7 @@ Reactos are small codes (Reactive Tokens) that can be used within normal texts t
 
 ### Variable `((r.var))`
 
-- `((r.var.variableName = any_value))` Saves any value (number or text) for later use. *variableName* should be *alphanumeric*
+- `((r.var.variableName = any_value))` Saves any value (number or text). *variableName* should be *alphanumeric*
 
 - `((r.var.variableName))` yields the value of the variable (set either by user or system)
 
